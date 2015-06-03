@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCELot.StringExtensions", "src\OCELot.StringExtensions\OCELot.StringExtensions.csproj", "{E19BCAFC-981F-4CBC-B381-6FD55DF38859}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACD738DF-CD42-452D-B387-09F5C54D8D4F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCELot.StringExtensions.Tests", "tests\OCELot.StringExtensions.Tests\OCELot.StringExtensions.Tests.csproj", "{D0AABDDC-5ACA-4CB7-8AFC-C751F48277AD}"
+EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "OCELot.StringExtensions.Documentation", "documentation\OCELot.StringExtensions.Documentation\OCELot.StringExtensions.Documentation.shfbproj", "{54FFD561-0277-4C21-BE23-68F7891E1102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19BCAFC-981F-4CBC-B381-6FD55DF38859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19BCAFC-981F-4CBC-B381-6FD55DF38859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19BCAFC-981F-4CBC-B381-6FD55DF38859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19BCAFC-981F-4CBC-B381-6FD55DF38859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AABDDC-5ACA-4CB7-8AFC-C751F48277AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AABDDC-5ACA-4CB7-8AFC-C751F48277AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AABDDC-5ACA-4CB7-8AFC-C751F48277AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AABDDC-5ACA-4CB7-8AFC-C751F48277AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FFD561-0277-4C21-BE23-68F7891E1102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FFD561-0277-4C21-BE23-68F7891E1102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FFD561-0277-4C21-BE23-68F7891E1102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FFD561-0277-4C21-BE23-68F7891E1102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
