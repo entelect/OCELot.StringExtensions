@@ -124,7 +124,7 @@ namespace OCELot.StringExtensions
         /// <returns>True if the strings do not match each other</returns>
 		public static bool DoesNotEqual(this string firstString, string secondString)
 		{
-			return !firstString.Equal(secondString);
+			return !firstString.Equals(secondString);
 		}
     }
 }
