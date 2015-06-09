@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the OCELot.StringExtensions documentation" Url="html/d8518319-01e5-4b4a-a092-48b9a3b4797b.htm" />
+  <HelpTOCNode Id="178e9d70-9e09-4585-9c67-4aa906382b49" Title="Version History" Url="html/ccfcb4e5-0092-4d43-878d-d4d8b0f8e0e0.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/f6a6120c-8fe1-47f8-ae6a-fdb792ad2e55.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="9d8d9c7a-3001-485f-8bff-29d99cfb33ab" Title="OCELot.StringExtensions" Url="html/bf57963d-e5d5-55ed-47e8-e0393a504e04.htm">
+    <HelpTOCNode Id="4c175724-ff09-4c3e-8873-2bd2752c7a11" Title="StringBuilderExtensions Class" Url="html/3823f1bb-d81a-f8f0-ac54-40ce7d3a2ca1.htm">
+      <HelpTOCNode Id="47e69ea7-21cf-4947-b5f8-daaf616a308d" Title="StringBuilderExtensions Methods" Url="html/40c450fc-f9fd-cbd0-80b5-56a7f9be2f4d.htm">
+        <HelpTOCNode Id="faf0bdb1-fd48-444c-804a-da00da8d1142" Title="AppendLineFormat Method " Url="html/c8039a04-56a1-19fd-b708-ccf22db92693.htm">
+          <HelpTOCNode Title="AppendLineFormat Method (StringBuilder, String, Object)" Url="html/c3716d91-1833-9b42-aecb-20d2b53ea2f7.htm" />
+          <HelpTOCNode Title="AppendLineFormat Method (StringBuilder, String, Object[])" Url="html/4a7845fb-757a-fe4c-1e8c-a449e19479f5.htm" />
+          <HelpTOCNode Title="AppendLineFormat Method (StringBuilder, String, Object, Object)" Url="html/885887d3-6094-535b-b3de-4eade097a640.htm" />
+          <HelpTOCNode Title="AppendLineFormat Method (StringBuilder, String, Object, Object, Object)" Url="html/0347fc24-0595-e05c-048b-a3b7a7d95d2a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cc97af68-bdab-4c58-9552-6f4199650671" Title="StringExtensions Class" Url="html/dd40ccb9-0812-d149-2624-5eb07aa6a014.htm">
+      <HelpTOCNode Id="914eb3e5-7bb5-4cb7-89ee-9158c457d9df" Title="StringExtensions Methods" Url="html/240986a4-2b0d-4997-5fa0-16e7863a5587.htm">
+        <HelpTOCNode Title="CapitaliseFirstLetter Method " Url="html/af1173c2-1aab-795f-9565-0ff653c2f083.htm" />
+        <HelpTOCNode Id="46ec6e64-b090-4181-b3f1-7f6c31555377" Title="Contains Method " Url="html/57b71647-9166-945e-d839-255d4e04b1e0.htm">
+          <HelpTOCNode Title="Contains Method (IEnumerable(String), String, StringComparison)" Url="html/59a96ff9-e6b0-9a07-8c4c-71685d9fceb9.htm" />
+          <HelpTOCNode Title="Contains Method (String, String, StringComparison)" Url="html/70a4c203-0e22-c89a-8584-b396ac49fc61.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsNullOrEmpty Method " Url="html/7fd0beee-7d59-1d54-a1c4-19581dcbf72c.htm" />
+        <HelpTOCNode Title="IsNullOrWhiteSpace Method " Url="html/53a59766-2d7c-285f-3ac2-05a2dd7131f4.htm" />
+        <HelpTOCNode Title="PascalToSpacedString Method " Url="html/94aa489a-19ff-4ee1-f4e5-520360ab6120.htm" />
+        <HelpTOCNode Title="PascalToSpacedStringArray Method " Url="html/4345940d-254c-4cbb-a757-bf86fe1253f2.htm" />
+        <HelpTOCNode Title="RemoveAllWhitespace Method " Url="html/e05c435d-3f79-c7bd-e244-27a09a4f94da.htm" />
+        <HelpTOCNode Title="ReplaceIgnoreCase Method " Url="html/d1982b42-a528-e1a2-7a5d-9e24d6025242.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
