@@ -114,5 +114,17 @@ namespace OCELot.StringExtensions
         {
             return string.IsNullOrWhiteSpace(input);
         }
+		
+		/// <summary>
+        /// Will determine if the two strings passed are not equal.
+		/// This is simply syntactical sugar to allow you to read the code better 
+        /// </summary>
+        /// <param name="firstString">A string to compare</param>
+		/// <param name="secondString">The other string to compare against</param>
+        /// <returns>True if the strings do not match each other</returns>
+		public static bool DoesNotEqual(this string firstString, string secondString)
+		{
+			return !firstString.Equal(secondString);
+		}
     }
 }
